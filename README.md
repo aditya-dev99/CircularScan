@@ -10,6 +10,6 @@ Get instant reuse, upcycling & recycling options with local partner booking.
 - SDG 13 - Climate Action
 
 ## Setup
- -pip install flask flask-cors python-dotenv pillow groq
- -Add GROQ_API_KEY to .env
- -python app.py
+-pip install flask flask-cors python-dotenv pillow groq
+-Add GROQ_API_KEY to .env
+-python app.py
