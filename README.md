@@ -15,8 +15,8 @@ git clone https://github.com/aditya-dev99/CircularScan.git
 cd CircularScan
 
 ### 2. Create virtual environment
-python -m venv venv
-venv\Scripts\activate
+- python -m venv venv
+- venv\Scripts\activate
 
 ### 3. Install dependencies
 pip install flask flask-cors python-dotenv pillow groq
